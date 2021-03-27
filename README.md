@@ -15,5 +15,5 @@ This Project will automatically use OCR to retrieve the details of a customer su
 
 The signature on the form will be extracted using Image Processing techniques and will be sent to the CNN model that is trained on genuine and forged signatures of the customers. 
 
-The entire application is demonstrated using Flask where the user can upload a specific template form and the signature is verified as genuine/forged.
+The entire application is demonstrated using Flask where the user can upload a form of a specific template and the signature is verified as genuine/forged.
 
