@@ -1,0 +1,39 @@
+<html>
+
+<style>
+h1{
+color: darkblue;
+}
+h2{
+color: darkblue;
+}
+h4{
+color: darkblue;
+}
+</style>
+
+<body style="background-color:azure;">
+<h2> Form Details </h1>
+
+<h4> Form Name: <span style="color:teal"> {{form_name}} </span> </h4>
+<h4> Form Type: <span style="color:teal"> {{form_type}} </span> </h4>
+
+<h2> User Details </h1>
+
+<h4> Username: <span style="color:teal"> {{username}} </span> </h4>
+<h4> Telephone Number: <span style="color:teal"> {{telephone}} </span> </h4>
+<h4> Mobile Number: <span style="color:teal"> {{mobile_no}} </span> </h4>
+<h4> Bank Branch: <span style="color:teal"> {{bank_branch}} </span> </h4>
+
+<h1> Validation Results </h1>
+
+<div>
+<img src="{{url_for('static', filename='sign.jpg')}}" alt="not displayed" width="220" height="85" />
+</div>
+
+<h2> Model Decision: <span style="color:teal"> {{prediction}} </span> </h4>
+
+</body>
+
+
+<html>
