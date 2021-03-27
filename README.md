@@ -8,7 +8,7 @@ Problems while verifying signatures manually
 
 Thought of AI?
 
-A single machine can process :7.5 checks minute * 24 HOURS *60 MINUTES = 10800 checks a day
+    A single machine can process :7.5 checks minute * 24 HOURS *60 MINUTES = 10800 checks a day
 
 
 This Project will automatically use OCR to retrieve the details of a customer such as an account number, customer name, branch, etc. from the form to be verified.
