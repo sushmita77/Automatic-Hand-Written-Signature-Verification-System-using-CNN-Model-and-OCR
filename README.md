@@ -17,3 +17,8 @@ The signature on the form will be extracted using Image Processing techniques an
 
 The entire application is demonstrated using Flask where the user can upload a form of a specific template and the signature is verified as genuine/forged.
 
+![image](https://user-images.githubusercontent.com/13360000/112717952-b7f7ec00-8ee7-11eb-88f9-ce79986b6cb9.png)
+
+![image](https://user-images.githubusercontent.com/13360000/112717953-bfb79080-8ee7-11eb-9646-e309d282c039.png)
+
+
