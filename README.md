@@ -2,9 +2,9 @@
 
 Problems while verifying signatures manually
 
-Increase in human efforts
-Time consuming
-Human Error
+    Increase in human efforts
+    Time consuming
+    Human Error
 
 Thought of AI?
 
