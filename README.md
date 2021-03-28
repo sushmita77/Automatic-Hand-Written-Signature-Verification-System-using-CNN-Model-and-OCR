@@ -22,7 +22,7 @@ The entire application is demonstrated using Flask where the user can upload a f
 ![image](https://user-images.githubusercontent.com/13360000/112717953-bfb79080-8ee7-11eb-9646-e309d282c039.png)
 
 
-** Flask Demo**
+**Flask Demo**
 
  ![image](https://user-images.githubusercontent.com/13360000/112750037-04adf680-8fbe-11eb-9489-16a26b57ed8b.png)
  ![image](https://user-images.githubusercontent.com/13360000/112750014-e3e5a100-8fbd-11eb-9f21-c4e486e37b0c.png)
